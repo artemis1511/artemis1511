@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi my name is Abdullahi Yinusa👋
+ # I am a data analyst
+im also a mlsa
 <!--
 **artemis1511/artemis1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

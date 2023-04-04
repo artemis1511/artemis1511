@@ -1,7 +1,7 @@
 ### Hi my name is Abdullahi Yinusa👋
  I am a data analyst 
  
-I am also a Microsoft learn student ambassador
+I'm also a Microsoft learn student ambassador
 
 Skills: MS Excel,SQL,PowerBI
 

@@ -1,11 +1,15 @@
 ### Hi my name is Abdullahi Yinusa👋
- I am a data analyst and a Power Platform developer.
+ I am a Microsoft learn student ambassador ,a data analyst and a Power Platform developer.
  
-I'm also a Microsoft learn student ambassador
+
+If you're interested in data analysis and the power platform then yoy can read my articles here https://medium.com/@yinusaabdullahi12
 
 Skills: MS Excel,SQL,PowerBI
 
-📫 How to reach me: https://twitter.com/Artemis1511
+📫 How to reach me: 
+LinkedIn https://ng.linkedin.com/in/abdullahi-yinusa
+
+https://twitter.com/Artemis1511
 
 - 😄 Pronouns: He/him
 
